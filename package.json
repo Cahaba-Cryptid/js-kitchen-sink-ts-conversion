@@ -1,0 +1,27 @@
+{
+  "name": "js-kitchen-sink-ts-conversion",
+  "version": "1.0.0",
+  "description": "JavaScript Kitchen Sink The objective of this lab assignment is to practice using the fundamentals of JavaScript that were explored in lecture.",
+  "main": "app.js",
+  "dependencies": {
+    "@types/jquery": "^3.3.29",
+    "jquery": "^3.4.0",
+    "typescript": "^3.4.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "tsc -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ParkingWizard/js-kitchen-sink-ts-conversion.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ParkingWizard/js-kitchen-sink-ts-conversion/issues"
+  },
+  "homepage": "https://github.com/ParkingWizard/js-kitchen-sink-ts-conversion#readme"
+}
